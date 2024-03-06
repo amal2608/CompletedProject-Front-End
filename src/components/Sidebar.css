@@ -1,0 +1,46 @@
+/* Sidebar.css */
+.sidebar {
+    width: 150px;
+    height:100%;
+    background-color: rgb(35, 37, 37);
+    /* background-image: url('https://th.bing.com/th/id/R.f6a54018c7dc21b13bc50b3028a505c1?rik=S%2bvsl43J5kwysA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fbctOXl2.png&ehk=oRNRjuA5iN7wPrr%2fkPIWZYU8bBPwBzdX8mISG%2blMsEI%3d&risl=&pid=ImgRaw&r=0'); */
+    color: #f7f4f4;
+    position:absolute;
+    top: px;
+    left: 20;
+    font-weight:normal;
+    overflow-x: hidden;
+    padding-top: 20px;
+    ;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  }
+  .sidebar a{
+    text-decoration:  none;
+  }
+  .sidebar ul {
+    text-align: left;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    color: rgb(255, 255, 255);
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  /* .sidebar li:hover {
+    background-color: #f7fbfd;
+    
+  } */
+
+.list-item {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 8px; /* Adjust the margin as needed */
+}
+
+  

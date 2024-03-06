@@ -1,0 +1,57 @@
+/* styles.css */
+
+.background-container {
+  background-image: url('https://th.bing.com/th/id/R.f6a54018c7dc21b13bc50b3028a505c1?rik=S%2bvsl43J5kwysA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fbctOXl2.png&ehk=oRNRjuA5iN7wPrr%2fkPIWZYU8bBPwBzdX8mISG%2blMsEI%3d&risl=&pid=ImgRaw&r=0');
+  background-size: cover; /* Adjust as needed: 'cover', 'contain', etc. */
+  background-position: center; /* Adjust as needed: 'center', 'top', 'bottom', etc. */
+  background-repeat: no-repeat;
+  height: 100vh; /* Set the height based on your design */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  margin: 0; /* Remove default margin for full-width background */
+  font-family: 'YourFontHere', sans-serif; /* Set the default font */
+  color: #ffffff; /* Set the default text color */
+}
+
+
+.background-2 {
+  background-image: url('https://th.bing.com/th/id/R.f6a54018c7dc21b13bc50b3028a505c1?rik=S%2bvsl43J5kwysA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fbctOXl2.png&ehk=oRNRjuA5iN7wPrr%2fkPIWZYU8bBPwBzdX8mISG%2blMsEI%3d&risl=&pid=ImgRaw&r=0');
+  background-size: cover; /* Adjust as needed: 'cover', 'contain', etc. */
+  background-position: center; /* Adjust as needed: 'center', 'top', 'bottom', etc. */
+  background-repeat: no-repeat;
+  height: 100vh; /* Set the height based on your design */
+  display: flex;
+  flex-direction: column;
+}
+
+.background-3 {
+  background-image: url('https://th.bing.com/th/id/R.f6a54018c7dc21b13bc50b3028a505c1?rik=S%2bvsl43J5kwysA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fbctOXl2.png&ehk=oRNRjuA5iN7wPrr%2fkPIWZYU8bBPwBzdX8mISG%2blMsEI%3d&risl=&pid=ImgRaw&r=0');
+  background-size: cover; /* Adjust as needed: 'cover', 'contain', etc. */
+  background-position: center; /* Adjust as needed: 'center', 'top', 'bottom', etc. */
+  background-repeat: no-repeat;
+  height: 100vh; /* Set the height based on your design */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  font-family: cursive; 
+  color: #ffffff; 
+}
+
+.background-4 {
+  background-image: url('https://th.bing.com/th/id/R.f6a54018c7dc21b13bc50b3028a505c1?rik=S%2bvsl43J5kwysA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fbctOXl2.png&ehk=oRNRjuA5iN7wPrr%2fkPIWZYU8bBPwBzdX8mISG%2blMsEI%3d&risl=&pid=ImgRaw&r=0');
+  background-size: cover; /* Adjust as needed: 'cover', 'contain', etc. */
+  background-position: center; /* Adjust as needed: 'center', 'top', 'bottom', etc. */
+  background-repeat: no-repeat;
+  height: 180vh; /* Set the height based on your design */
+  display: grid;
+  flex-direction: column;
+  font-family: cursive; 
+  color: #ffffff; 
+}
